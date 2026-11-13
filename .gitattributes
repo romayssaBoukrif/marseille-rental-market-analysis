@@ -1,3 +1,4 @@
 *.html linguist-generated 
 *.htm linguist-generated 
 charts/*.html linguist-generated
+charts/*.html linguist-detectable=false
